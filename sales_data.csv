@@ -1,0 +1,7 @@
+Order ID,Product,Quantity,Sales,Region,Date
+1001,Keyboard,2,300,North,2024-01-31
+1002,Mouse,3,150,South,2024-02-29
+1003,Monitor,1,200,East,2024-03-31
+1004,Keyboard,1,150,West,2024-04-30
+1005,Mouse,2,100,North,2024-05-31
+1006,Monitor,1,180,South,2024-06-30
