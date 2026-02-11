@@ -1,4 +1,4 @@
-# 📊 Sales Insights Dashboard
+# 📊 Sales Insights Dashboard – Python & Matplotlib
 
 A beginner-friendly data analysis project to explore and visualize sales performance across different regions and products using Python, Pandas, and Matplotlib.
 
@@ -62,3 +62,4 @@ Sales-Insights-Dashboard/
 
 Jami Bhargav Venkat  
 GitHub: [bhargavjami](https://github.com/bhargavjami)
+
